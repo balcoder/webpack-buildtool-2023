@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Open Sans", sans-serif;
+  src: url("./OpenSans-Regular.ttf");
+}
+
+.hello {
+  color: red;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background: url("./hotel-2.jpg");
+}
